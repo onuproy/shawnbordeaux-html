@@ -336,3 +336,52 @@ p {
 	color: #FFF;
 	transition: 0.5s;
 }
+/* Priceing section Css  */
+.pricing_section {
+	background: url('../images/banner/pricing.png') no-repeat scroll 0 0 / 100% 100%;
+}
+
+/* Footer  */
+.footer_section{
+  background: #FFF;
+  padding-bottom: 60px;
+  padding-top: 20px;
+}
+.backTop {
+	text-align: center;
+}
+.backTop a{
+  background: #9E00BF;
+  color: #FFF;
+  padding: 7px 120px;
+  transition: 0.5s;
+  border-radius: 28px;
+  font-size: 33px;
+  font-weight: 600;
+  display: inline-block;
+  line-height: 47px;
+  height: 56px;
+  margin-top: 20px;
+  cursor: pointer;
+ }
+.backTop a:hover {
+	background: #50299a;
+	color: #FFF;
+	transition: 0.5s;
+}
+.social.text-center a {
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: #000000;
+	font-weight: 600;
+	font-size: 40px;
+}
+.social{
+  margin-top: 30px;
+}
+.social a img {
+	height: 72px;
+	margin-right: 11px;
+}
