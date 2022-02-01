@@ -4,6 +4,7 @@ body {
   font-family: 'Volte';
   font-size: 16px;
   font-weight: 400;
+  background: #FFF;
 }
 
 html, body, div, span, applet, object, iframe,
@@ -331,7 +332,7 @@ p {
   margin-top: 20px;
  }
 .security_btn a:hover {
-	background: #81009C;
+	background: #50299a;
 	color: #FFF;
 	transition: 0.5s;
 }
